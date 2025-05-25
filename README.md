@@ -1,5 +1,5 @@
 # 🎲 Dice-Roll-Battle 🎲
-For this game, it is a turn-based game. There are 2 players where each player rolls two virtual dice in their turn. 
+For this game, it is a turn-based game. There are 2 players where each player rolls two virtual dice in their turn. The points on dice will be showned randomly.
 # 🏆 How to win:
 If the sum of their two dice roll is odd, they will gain the points as the sum of the two dices. 
 
